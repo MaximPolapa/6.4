@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\Лабораторки курс\Алгоритмізація\1 курс\6\6.4\6.4\Source.cpp(76,26): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторки курс\Алгоритмізація\1 курс\6\6.4\6.4\Source.cpp(98,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  UnitTest1.vcxproj -> D:\Лабораторки курс\Алгоритмізація\1 курс\6\6.4\6.4\Debug\UnitTest1.dll

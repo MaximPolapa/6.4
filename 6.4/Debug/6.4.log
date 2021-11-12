@@ -1,0 +1,2 @@
+﻿D:\Microsoft Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1076,5): error MSB6006: "link.exe" exited with code 1168.
+LINK : fatal error LNK1168: cannot open D:\Лабораторки курс\Алгоритмізація\1 курс\6\6.4\6.4\Debug\6.4.exe for writing
